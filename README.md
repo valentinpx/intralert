@@ -13,3 +13,5 @@ pip3 install python-dotenv
 ```
 ### Configuration
 You then need to create a `.env` file from the `.env.example` file and fill it with your intranet and telegram credentials and informations.
+
+Testé et approuvé 😙
